@@ -17,11 +17,27 @@ AI Researcher & AI Developer — I build and fine-tune AI models that turn data 
 - **[arabic-text-normalizer](https://github.com/abdulshaheerm/arabic-text-normalizer)**: a lightweight, dependency-free Python library + CLI that normalizes Arabic text for search and NLP (alef forms, ى/ي, tashkeel, tatweel, digits). Tested in CI on Python 3.9–3.13 · [▶ Live demo](https://huggingface.co/spaces/abdulshaheerm/arabic-text-normalizer)
 
 ### 🛠️ Tech stack
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,git,linux&theme=dark" />
-</p>
+**AI / ML**
 
-Also: Hugging Face · LoRA / QLoRA · FAISS
+![AI/ML](https://skillicons.dev/icons?i=python,pytorch,sklearn&theme=dark)
+
+Hugging Face (Transformers · Datasets · Spaces) · LoRA / QLoRA · FAISS · RAG · Tokenizers · OCR pipelines · Claude & Gemini APIs
+
+**Backend & Automation**
+
+![Backend](https://skillicons.dev/icons?i=fastapi,docker,bash&theme=dark)
+
+n8n workflows · WhatsApp automation · MCP servers
+
+**Apps & Web**
+
+![Apps](https://skillicons.dev/icons?i=nextjs,nodejs,ts,js,angular,cs,php,flutter,html,css,wordpress&theme=dark)
+
+**Tooling**
+
+![Tooling](https://skillicons.dev/icons?i=git,github,githubactions,linux,windows,apple,vscode&theme=dark)
+
+Kaggle · Replit · Claude Code
 
 ### 📊 GitHub stats
 <p>
